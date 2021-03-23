@@ -1,0 +1,11 @@
+git status /*Para verificar el estado de los archivos*/
+
+git add /*Agregar los archivos modificados */
+
+git clone y el linck /*para clonar archivos*/
+
+git commit -m "Comentario"
+
+
+
+git add *
